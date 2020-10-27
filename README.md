@@ -8,4 +8,12 @@ This repository is used for students to build and understand the basic communica
 
 这个仓库用于让学生搭建和理解基础的通信系统，内容为李晓峰教授的《通信原理》课程中所需的各项通信系统仿真
 
-Thanks for any help.
+## Support
+
+A new version of MATLAB is recommended
+
+Support software has not been uploaded yet
+
+## License
+
+This repository is available under the terms of the Apache2.0 License.
