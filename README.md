@@ -14,6 +14,9 @@ A new version of MATLAB is recommended
 
 Support software has not been uploaded yet
 
+## Contributor
+
+
 ## License
 
-This repository is available under the terms of the Apache2.0 License.
+This repository is available under the terms of the [Apache2.0 License](https://github.com/bugmaker2/communication-system-simulation/blob/main/LICENSE).
