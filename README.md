@@ -7,7 +7,7 @@ This repository is used for students to build and understand the basic communica
 
 ## Support
 
-A new version of MATLAB is recommended
+A updated version of MATLAB is recommended
 
 Support software has not been uploaded yet
 
